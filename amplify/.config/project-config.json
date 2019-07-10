@@ -1,0 +1,20 @@
+{
+    "projectName": "serverlessforevery",
+    "projectPath": "/Users/ericdj/Sites/serverlessforeveryone",
+    "defaultEditor": "code",
+    "frontendHandler": {
+        "javascript": "/Users/ericdj/.nvm/versions/node/v10.12.0/lib/node_modules/@aws-amplify/cli/node_modules/amplify-frontend-javascript"
+    },
+    "javascript": {
+        "framework": "vue",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "dist",
+            "BuildCommand": "npm run-script build",
+            "StartCommand": "npm run-script serve"
+        }
+    },
+    "providers": {
+        "awscloudformation": "/Users/ericdj/.nvm/versions/node/v10.12.0/lib/node_modules/@aws-amplify/cli/node_modules/amplify-provider-awscloudformation"
+    }
+}

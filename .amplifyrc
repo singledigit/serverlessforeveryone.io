@@ -1,0 +1,15 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "serverlessforevery-20190709180346-authRole",
+            "UnauthRoleArn": "arn:aws:iam::700336187521:role/serverlessforevery-20190709180346-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::700336187521:role/serverlessforevery-20190709180346-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "serverlessforevery-20190709180346-deployment",
+            "UnauthRoleName": "serverlessforevery-20190709180346-unauthRole",
+            "StackName": "serverlessforevery-20190709180346",
+            "StackId": "arn:aws:cloudformation:us-west-2:700336187521:stack/serverlessforevery-20190709180346/92229560-a2ae-11e9-bd1e-06ba2e5d70ae"
+        }
+    },
+    "publish-ignore": []
+}
